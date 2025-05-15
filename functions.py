@@ -41,3 +41,6 @@ def Delete_Expense():
 
 def Download_Expense():
     pass
+    # we need to ask file name from user 
+    # ask extension from user
+    # then create file and write
